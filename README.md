@@ -26,6 +26,3 @@ The results of the models, including performance metrics and visualizations, are
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to modify this as needed to better fit your project's specifics.
